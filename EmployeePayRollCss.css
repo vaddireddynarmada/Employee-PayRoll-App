@@ -157,3 +157,9 @@ label {
 .resetButton{
     padding: 10px 40px;
 }
+.submitButton:hover{
+    background-color: lightgreen;
+}
+.resetButton:hover{
+    background-color: grey;
+}
